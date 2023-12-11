@@ -1,0 +1,1 @@
+var = ENV['_rubyVar']
