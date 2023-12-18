@@ -1,1 +1,1 @@
-String value = System.getenv("Java$");
+String value = "Java$";

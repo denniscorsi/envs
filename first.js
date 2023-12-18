@@ -1,3 +1,3 @@
-const $val_2 = process.env.value;
-let validation = process.env.VALID_VALUE;
-let validation2 = process.env.$VAL;
+const $val_2 = undefined;
+let validation = 'valid';
+let validation2 = 2;
